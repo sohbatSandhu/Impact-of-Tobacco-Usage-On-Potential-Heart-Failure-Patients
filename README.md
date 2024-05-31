@@ -1,6 +1,7 @@
 # _Impact of Tobacco Usage On Potential Heart Failure Patients_
 
 ## Statistical Analysis
-- A comprehensive statistical analysis using R and Jupyter Notebook to investigate the relationship between tobacco usage and the risk of heart failure among potential patients.
-- My analysis involved formulating hypotheses, performing hypothesis testing, and visualizing the results using various statistical techniques like asymptotic two sample t-tests and confidence intervals.
-- This project allowed me to enhance my data analysis and statistical inference skills while contributing to our understanding of a critical health issue. It showcases my ability to use data-driven insights to inform decision-making and promote public health awareness.
+- Designed and implemented with team a comprehensive and reproducible analysis using R in RStudio and Juypter
+- Performed Hypothesis Testing at 5% significance using infer & stats, and compared inference methods like Bootstrapping with CIs and Asymptotic two-sample t-test 
+- Analyzed observations and derived conclusions using valuable input from team members to assist researchers improve preventive measures for potential heart failure patients
+
